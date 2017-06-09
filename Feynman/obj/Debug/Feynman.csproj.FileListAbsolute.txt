@@ -1,0 +1,30 @@
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\bin\Debug\Feynman.exe.config
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\bin\Debug\Feynman.exe
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\bin\Debug\Feynman.pdb
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\obj\Debug\Feynman.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\obj\Debug\Feynman.Tela1.resources
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\obj\Debug\Feynman.Properties.Resources.resources
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\obj\Debug\Feynman.csproj.GenerateResource.Cache
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\obj\Debug\Feynman.exe
+c:\users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\obj\Debug\Feynman.pdb
+C:\Users\adm\documents\visual studio 2015\Feynman\Feynman\Feynman\obj\Debug\Feynman.Tela2.resources
+C:\Users\adm\Desktop\Feynman\Feynman\bin\Debug\Feynman.exe.config
+C:\Users\adm\Desktop\Feynman\Feynman\obj\Debug\Feynman.exe
+C:\Users\adm\Desktop\Feynman\Feynman\obj\Debug\Feynman.pdb
+C:\Users\adm\Desktop\Feynman\Feynman\bin\Debug\Feynman.exe
+C:\Users\adm\Desktop\Feynman\Feynman\bin\Debug\Feynman.pdb
+C:\Users\adm\Desktop\Feynman\Feynman\obj\Debug\Feynman.Tela1.resources
+C:\Users\adm\Desktop\Feynman\Feynman\obj\Debug\Feynman.Tela2.resources
+C:\Users\adm\Desktop\Feynman\Feynman\obj\Debug\Feynman.Properties.Resources.resources
+C:\Users\adm\Desktop\Feynman\Feynman\obj\Debug\Feynman.csproj.GenerateResource.Cache
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\bin\Debug\Feynman.exe.config
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.exe
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.pdb
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\bin\Debug\Feynman.exe
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\bin\Debug\Feynman.pdb
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.csprojResolveAssemblyReference.cache
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.Alunos.resources
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.Tela1.resources
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.Tela2.resources
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.Properties.Resources.resources
+C:\Users\adm\Desktop\PROGRAMAS\Feynman\Feynman\obj\Debug\Feynman.csproj.GenerateResource.Cache
